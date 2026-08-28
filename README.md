@@ -51,3 +51,19 @@ I want to be able to look at a problem, recognize the underlying pattern, reason
 What started as interview preparation has slowly become something I genuinely enjoy doing.
 
 Still learning. Still solving. Still getting better.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+<!---LeetCode Topics End-->
