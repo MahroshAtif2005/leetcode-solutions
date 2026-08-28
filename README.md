@@ -1,5 +1,8 @@
 # LeetCode and DSA
 
+[View my LeetCode Profile](https://leetcode.com/u/__mxxrosh/)
+
+
 I majorly code in Java and C++, and these days I am grinding LeetCode primarily in C++ as I prepare for software engineering interviews.
 
 I originally started DSA because I knew it was something I needed to get good at for technical interviews. Somewhere along the way, though, I actually started loving it.
