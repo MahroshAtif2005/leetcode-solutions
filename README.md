@@ -82,12 +82,14 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
