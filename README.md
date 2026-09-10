@@ -108,6 +108,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
@@ -133,13 +134,16 @@ Still learning. Still solving. Still getting better.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
