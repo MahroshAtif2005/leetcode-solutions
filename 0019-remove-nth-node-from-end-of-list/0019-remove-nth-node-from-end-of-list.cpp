@@ -21,23 +21,21 @@ Ask yourself: if I go 2 steps backwards from fast, where do I land?
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-//edge case: what if the node we need to delete is the head itself
-//so we create a dummy node
-       ListNode dummy(0);
-       dummy.next=head;
+      ListNode dummy(0);
+      dummy.next = head;
+      ListNode* slow = &dummy;
+      ListNode* fast = & dummy;
 
-       ListNode* slow = &dummy;
-       ListNode* fast = &dummy;
-       for (int i = 0;i<n;i++){
-         fast = fast->next;
-       }
-       while(fast->next!=nullptr){
+      for (int i = 0; i<n;i++){
+        fast = fast->next;
+      }
+
+      while(fast->next != nullptr){
         fast = fast->next;
         slow = slow->next;
-       }
-       
-       slow->next = slow->next->next;
-       return dummy.next;
+      }
+      slow->next = slow->next->next;
 
+      return dummy.next;
     }
 };
