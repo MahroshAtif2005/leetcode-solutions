@@ -140,6 +140,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
