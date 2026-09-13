@@ -21,18 +21,16 @@ public:
         ListNode* curr = head;
 
         while (curr!=nullptr){
-            //check if current begins a duplikctae group
-            if(curr->next!=nullptr && curr->val==curr->next->val){
-                int duplicateValue = curr->val;
-
-                while(curr!=nullptr && curr->val == duplicateValue){
-                   curr=curr->next;
-                }
-                prev->next=curr;
-            }else{
-                prev=curr;
+           if(curr->next!=nullptr && curr->val==curr->next->val){
+            int duplicateValue = curr->val;
+            while(curr!=nullptr && curr->val == duplicateValue){
                 curr=curr->next;
             }
+            prev->next = curr;
+           }else{
+           prev=curr;
+           curr=curr->next;
+           }
         }
         return dummy.next;
     }
