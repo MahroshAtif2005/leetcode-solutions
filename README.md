@@ -158,6 +158,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,12 +168,15 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
