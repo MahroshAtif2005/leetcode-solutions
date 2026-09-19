@@ -93,6 +93,7 @@ Still learning. Still solving. Still getting better.
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,12 +210,23 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
