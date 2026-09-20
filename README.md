@@ -91,6 +91,7 @@ Still learning. Still solving. Still getting better.
 | [0162-find-peak-element](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
@@ -104,6 +105,7 @@ Still learning. Still solving. Still getting better.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -219,6 +222,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
@@ -246,4 +250,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
