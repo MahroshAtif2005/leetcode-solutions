@@ -63,6 +63,7 @@ Still learning. Still solving. Still getting better.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Still learning. Still solving. Still getting better.
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Still learning. Still solving. Still getting better.
 | [0162-find-peak-element](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -134,6 +137,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Recursion
@@ -215,6 +219,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -229,4 +234,16 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
