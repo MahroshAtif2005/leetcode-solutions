@@ -101,6 +101,7 @@ Still learning. Still solving. Still getting better.
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@ Still learning. Still solving. Still getting better.
 | [0102-binary-tree-level-order-traversal](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
