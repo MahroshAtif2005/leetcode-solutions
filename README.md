@@ -189,6 +189,7 @@ Still learning. Still solving. Still getting better.
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -209,6 +210,7 @@ Still learning. Still solving. Still getting better.
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -287,4 +289,13 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
