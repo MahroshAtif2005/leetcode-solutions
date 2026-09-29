@@ -62,6 +62,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -72,6 +73,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -90,6 +92,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -269,6 +272,7 @@ Still learning. Still solving. Still getting better.
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -310,6 +314,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -335,4 +340,12 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
