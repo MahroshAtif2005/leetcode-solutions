@@ -93,6 +93,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -293,6 +294,7 @@ Still learning. Still solving. Still getting better.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -320,6 +322,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
