@@ -75,6 +75,7 @@ Still learning. Still solving. Still getting better.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -326,6 +327,7 @@ Still learning. Still solving. Still getting better.
 | [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
