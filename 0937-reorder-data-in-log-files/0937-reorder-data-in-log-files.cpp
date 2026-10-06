@@ -17,7 +17,7 @@ public:
            }
         }
         // now i need to sort the letters array first without the identifier and if match then with the identifier
-        sort(letters.begin(),letters.end(),[](string a, string b){
+        sort(letters.begin(),letters.end(),[](string& a, string& b){
           int posA = a.find(' ');
           int posB = b.find(' ');
 
