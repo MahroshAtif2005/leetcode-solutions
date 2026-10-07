@@ -66,6 +66,7 @@ Still learning. Still solving. Still getting better.
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -82,6 +83,7 @@ Still learning. Still solving. Still getting better.
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
@@ -113,6 +115,7 @@ Still learning. Still solving. Still getting better.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0518-coin-change-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
