@@ -72,6 +72,7 @@ Still learning. Still solving. Still getting better.
 | [0740-delete-and-earn](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@ Still learning. Still solving. Still getting better.
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,4 +385,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
