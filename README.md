@@ -120,6 +120,7 @@ Still learning. Still solving. Still getting better.
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0518-coin-change-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -156,6 +157,7 @@ Still learning. Still solving. Still getting better.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
+| [0636-exclusive-time-of-functions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 ## Design
