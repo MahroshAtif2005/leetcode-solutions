@@ -80,6 +80,7 @@ Still learning. Still solving. Still getting better.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
@@ -269,6 +270,7 @@ Still learning. Still solving. Still getting better.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0093-restore-ip-addresses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
