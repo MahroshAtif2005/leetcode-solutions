@@ -1,33 +1,36 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-     vector<string> st;
-     string folder = "";
+     stack<string> st;
+     int index;
+      
+ 
+      stringstream ss(path);
+      string word;
+      
+      while(getline(ss,word,'/')){
 
-     path+= '/'; // so the last folder gets processed too
-     for(char c : path){
-       if(c!='/'){
-        folder+=c;
-       }else{
-        if(folder==".."){
-            if(!st.empty()){
-            st.pop_back();
-            }
+        if (word=="" || word == "."){
+            continue;
         }
-        else if(folder!="" && folder!="."){
-            st.push_back(folder);
+        
+        if(word == ".."){
+             if (!st.empty()) {
+              st.pop();
+               }
+            continue;
         }
-        folder = ""; //start reading the next folder
-       } 
+        st.push(word);
+      }
+
+       string answer;
+     while(!st.empty()){
+        answer = '/' + st.top() + answer;
+        st.pop();
      }
-     //build final path
-     string answer = "";
-     for(string folder: st){
-        answer += '/' + folder;
+     if (answer.empty()){
+        answer = '/';
      }
-     if(answer==""){
-        answer+='/';
-     }
-     return answer;
-    }
+      return answer;
+     }  
 };
