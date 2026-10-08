@@ -72,6 +72,7 @@ Still learning. Still solving. Still getting better.
 | [0740-delete-and-earn](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
@@ -93,6 +94,7 @@ Still learning. Still solving. Still getting better.
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +168,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
