@@ -60,6 +60,7 @@ Still learning. Still solving. Still getting better.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
@@ -108,6 +109,7 @@ Still learning. Still solving. Still getting better.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
