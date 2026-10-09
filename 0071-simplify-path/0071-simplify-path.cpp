@@ -1,36 +1,28 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-     stack<string> st;
-     int index;
-      
- 
-      stringstream ss(path);
-      string word;
-      
-      while(getline(ss,word,'/')){
+  stack<string> st;
+  stringstream ss(path);
 
-        if (word=="" || word == "."){
-            continue;
-        }
-        
-        if(word == ".."){
-             if (!st.empty()) {
-              st.pop();
-               }
-            continue;
-        }
-        st.push(word);
-      }
-
-       string answer;
-     while(!st.empty()){
-        answer = '/' + st.top() + answer;
+  string file;
+  while(getline(ss,file,'/')){
+    if (file==".."){
+      if (!st.empty()) {
         st.pop();
-     }
-     if (answer.empty()){
-        answer = '/';
-     }
-      return answer;
-     }  
+       }
+  }
+     else if (file != "" && file != ".") {
+       st.push(file);
+      }
+}
+  string answer;
+  while (!st.empty()){
+   answer = "/" + st.top() + answer;
+   st.pop();
+  }
+    if(answer==""){
+     return "/";
+    }
+  return answer;
+    }
 };
