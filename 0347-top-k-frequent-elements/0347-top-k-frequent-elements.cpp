@@ -7,16 +7,22 @@ public:
      for (int i = 0 ; i<nums.size(); i++){
         map[nums[i]]++;
      }
-     vector<pair<int,int>> arr;
-     for (const auto& entry : map){
-        arr.push_back({entry.second,entry.first});
+     //do bucket sort, where the index represent the frequency
+     vector<vector<int>> freq(nums.size()+1);
+     
+     for (auto& entry: map){
+        freq[entry.second].push_back(entry.first);
      }
-
-     sort(arr.rbegin(),arr.rend());
-     vector<int> ans;
-     for (int i = 0; i<k ; i++){
-       ans.push_back(arr[i].second);
-     }
-     return ans;
+    
+    vector<int> answer;
+    for (int i = nums.size(); i>=1;i--){
+        for (int num : freq[i]){
+           answer.push_back(num);
+           if(answer.size()==k){
+            return answer;
+           }
+        }
+    }
+    return answer;
     }
 };
