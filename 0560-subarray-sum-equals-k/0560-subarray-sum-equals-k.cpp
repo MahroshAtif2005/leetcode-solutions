@@ -1,19 +1,17 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-     unordered_map<int,int> freq; // prefix sum and the number of times we encountered it
+     unordered_map<int,int> map; //we will store prefix sum and its freq
      int count = 0;
-     freq[0] = 1;
      int prefixSum = 0;
-     for (int i = 0; i<nums.size();i++){
-        prefixSum+=nums[i];
-
-        if(freq.count(prefixSum-k)){
-            count+= freq[prefixSum-k];
-        }
-        
-        freq[prefixSum]++;
+     map[0] = 1;
+    for (int num: nums){
+      prefixSum += num;
+      if(map.count(prefixSum-k)){
+        count+=map[prefixSum-k];
+      }
+       map[prefixSum]++;
      }
      return count;
-    }
+       }
 };
