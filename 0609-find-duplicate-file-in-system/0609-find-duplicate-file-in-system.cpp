@@ -1,49 +1,45 @@
 class Solution {
 public:
     vector<vector<string>> findDuplicate(vector<string>& paths) {
-        unordered_map<string, vector<string>> map;
+      //go through the array 
+      //store the content as key and and the root dir as value
+      //if content matches add the root+filename as value  -> string||vector string hashmap
+      //after root before file name there should be a '/' when i concatinate them
+      //have a answer string and output the answer from the hashmap,
+      //each part of the vector containing all the pairs where values are more than 1
+      //map.second.size() > 1 that means duplicate and ad in ans vector 
+      unordered_map<string,vector<string>> map;
+      for (int i = 0; i<paths.size(); i++){
 
-        for (int i = 0; i < paths.size(); i++) {
+        int space = paths[i].find(' ');
+        string rootDir = paths[i].substr(0,space);
 
-            // get directory
-            int pos3 = paths[i].find(' ');
-            string directory = paths[i].substr(0, pos3);
+        string remaining = paths[i].substr(space+1);
 
-            // everything after directory
-            string remaining = paths[i].substr(pos3 + 1);
+        while(remaining.find('(')!=string::npos){
+        int pos1 = remaining.find('(');
+        int pos2 = remaining.find(')');
+        string content = remaining.substr(pos1+1,pos2 - pos1 - 1);
 
-            while (remaining.find('(') != string::npos) {
+        string fileName = remaining.substr(0,pos1);
+        
+        map[content].push_back(rootDir+"/"+fileName);
 
-                int pos = remaining.find('(');
-                int pos2 = remaining.find(')');
-
-                string fileName = remaining.substr(0, pos);
-
-                string content =
-                    remaining.substr(pos + 1, pos2 - pos - 1);
-
-                string filePath = directory + "/" + fileName;
-
-                map[content].push_back(filePath);
-
-                // remove the file we just processed
-                remaining = remaining.substr(pos2 + 1);
-
-                // remove leading space
-                if (!remaining.empty() && remaining[0] == ' ') {
-                    remaining = remaining.substr(1);
-                }
-            }
+        if (pos2 + 1 < remaining.size()) {
+         remaining = remaining.substr(pos2 + 2);
+         } else {
+           remaining = "";
+           }
         }
-
-        vector<vector<string>> answer;
-
-        for (auto path : map) {
-            if (path.second.size() > 1) {
-                answer.push_back(path.second);
-            }
+      }
+     
+     vector<vector<string>> answer;
+     for(auto& entry: map){
+        if(entry.second.size()>1){
+         answer.push_back(entry.second);
         }
-
-        return answer;
+     }
+     
+     return answer;
     }
 };
