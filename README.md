@@ -78,6 +78,7 @@ Still learning. Still solving. Still getting better.
 | [0819-most-common-word](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
@@ -107,6 +108,7 @@ Still learning. Still solving. Still getting better.
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
@@ -158,6 +160,7 @@ Still learning. Still solving. Still getting better.
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -222,6 +225,7 @@ Still learning. Still solving. Still getting better.
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
