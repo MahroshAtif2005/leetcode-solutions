@@ -15,6 +15,8 @@ public:
         if(map.count(tokenId)){
         if(currentTime<map[tokenId]){
             map[tokenId]=currentTime+ttl;
+        }else{
+            map.erase(tokenId);
         }
         }
     }
