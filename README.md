@@ -83,6 +83,7 @@ Still learning. Still solving. Still getting better.
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -203,6 +204,7 @@ Still learning. Still solving. Still getting better.
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +339,7 @@ Still learning. Still solving. Still getting better.
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,4 +480,12 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
 <!---LeetCode Topics End-->
