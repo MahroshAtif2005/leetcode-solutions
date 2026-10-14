@@ -81,6 +81,7 @@ Still learning. Still solving. Still getting better.
 | [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
+| [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
@@ -201,6 +202,7 @@ Still learning. Still solving. Still getting better.
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
+| [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ Still learning. Still solving. Still getting better.
 | [0092-reverse-linked-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,4 +473,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 <!---LeetCode Topics End-->
