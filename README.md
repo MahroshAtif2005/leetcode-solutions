@@ -100,6 +100,7 @@ Still learning. Still solving. Still getting better.
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0468-validate-ip-address](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0468-validate-ip-address/) | Medium |
+| [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -144,6 +145,7 @@ Still learning. Still solving. Still getting better.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0518-coin-change-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+| [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -205,6 +207,7 @@ Still learning. Still solving. Still getting better.
 | [0062-unique-paths](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Monotonic Stack
@@ -221,6 +224,7 @@ Still learning. Still solving. Still getting better.
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
