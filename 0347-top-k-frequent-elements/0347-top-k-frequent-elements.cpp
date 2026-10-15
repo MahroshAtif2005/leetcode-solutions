@@ -6,21 +6,30 @@ public:
      for (int i = 0; i<nums.size(); i++){
         freq[nums[i]]++;
      }
-     //freq,number
-     priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+    //lets do by bucket sort now
+    //keep the index as teh freq
+    int n = nums.size();
 
-     for (auto& entry: freq){
-        pq.push({entry.second,entry.first});
-        if(pq.size()>k){
-            pq.pop();
-        }
-     }
-     //turn in the array
+    vector<vector<int>> bucket(n + 1); //beacuse multiple numvers can have same freq
+    
+    for (auto& entry : freq){
+         bucket[entry.second].push_back(entry.first);
+    }
+    // 0 1 2 3 4 5
+    // -1 3 2 -1 -1 -1
+     
      vector<int> answer;
-     while(!pq.empty()){
-        answer.push_back(pq.top().second);
-        pq.pop();
-     }
+
+   for (int i = n; i >= 1; i--) {
+    for (int num : bucket[i]) {
+        answer.push_back(num);
+
+        if (answer.size() == k) {
+            return answer;
+        }
+    }
+}
+     
      return answer;
     }
 };
