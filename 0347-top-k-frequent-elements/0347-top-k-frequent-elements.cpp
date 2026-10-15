@@ -1,28 +1,26 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-    //space complexity o(n)
-    //time compexity o(n log n) -> coz of the sorting
-     unordered_map<int,int> map;
-     for (int i = 0 ; i<nums.size(); i++){
-        map[nums[i]]++;
+     //hashmap + priority queue
+     unordered_map<int,int> freq;
+     for (int i = 0; i<nums.size(); i++){
+        freq[nums[i]]++;
      }
-     //do bucket sort, where the index represent the frequency
-     vector<vector<int>> freq(nums.size()+1);
-     
-     for (auto& entry: map){
-        freq[entry.second].push_back(entry.first);
-     }
-    
-    vector<int> answer;
-    for (int i = nums.size(); i>=1;i--){
-        for (int num : freq[i]){
-           answer.push_back(num);
-           if(answer.size()==k){
-            return answer;
-           }
+     //freq,number
+     priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
+
+     for (auto& entry: freq){
+        pq.push({entry.second,entry.first});
+        if(pq.size()>k){
+            pq.pop();
         }
-    }
-    return answer;
+     }
+     //turn in the array
+     vector<int> answer;
+     while(!pq.empty()){
+        answer.push_back(pq.top().second);
+        pq.pop();
+     }
+     return answer;
     }
 };
