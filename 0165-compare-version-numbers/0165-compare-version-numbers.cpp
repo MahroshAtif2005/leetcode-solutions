@@ -8,9 +8,6 @@ public:
 
         string num1, num2;
 
-        int n = version1.size();
-        int m = version2.size();
-
         while(true){
             int a = 0;
             int b = 0;
