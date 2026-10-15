@@ -100,6 +100,7 @@ Still learning. Still solving. Still getting better.
 | [0115-distinct-subsequences](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -271,6 +272,7 @@ Still learning. Still solving. Still getting better.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
