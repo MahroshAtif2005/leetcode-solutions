@@ -1,36 +1,31 @@
 class Solution {
 public:
     int compareVersion(string version1, string version2) {
-     stringstream ss1(version1);
-     stringstream ss2(version2);
-     string num1, num2;
-
-     while(true){
-        int a = 0;
-        int b = 0;
-
-        bool has1 = bool(getline(ss1,num1,'.'));
-        bool has2 = bool(getline(ss2,num2,'.'));
-
-        if(!has1 && !has2){//means both ended
-           break;
-        }
-        
-        if(has1){
-            a = stoi(num1);
-        }
-        if(has2){
-            b = stoi(num2);
-        }
-
-        if(a<b){
-            return -1;
-        }
-
-        if(b<a){
-            return 1;
-        }
-     }
-     return 0;
+    int i = 0;
+    int j = 0;
+    int n = version1.size();
+    int m = version2.size();
+    
+    while(i<n || j<m){
+      int num1 = 0;
+      int num2 = 0;
+      while(i<n && version1[i]!='.'){
+        num1 = num1 * 10 + (version1[i]-'0');
+        i++;
+      }
+      while(j<m && version2[j]!='.'){
+        num2 = num2 * 10 + (version2[j]-'0');
+        j++;
+      }
+      if(num1<num2){
+        return -1;
+      }
+      if(num2<num1){
+        return 1;
+      }
+      i++;
+      j++;
+    }
+    return 0;
     }
 };
