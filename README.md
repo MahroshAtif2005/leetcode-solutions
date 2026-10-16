@@ -81,6 +81,7 @@ Still learning. Still solving. Still getting better.
 | [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1487-making-file-names-unique](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1487-making-file-names-unique/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
@@ -122,6 +123,7 @@ Still learning. Still solving. Still getting better.
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1487-making-file-names-unique](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1487-making-file-names-unique/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [2456-most-popular-video-creator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2456-most-popular-video-creator/) | Medium |
 | [2512-reward-top-k-students](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2512-reward-top-k-students/) | Medium |
@@ -178,6 +180,7 @@ Still learning. Still solving. Still getting better.
 | [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
+| [1487-making-file-names-unique](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1487-making-file-names-unique/) | Medium |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2456-most-popular-video-creator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2456-most-popular-video-creator/) | Medium |
