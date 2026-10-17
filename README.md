@@ -104,6 +104,7 @@ Still learning. Still solving. Still getting better.
 | [0125-valid-palindrome](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -213,6 +214,7 @@ Still learning. Still solving. Still getting better.
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -234,6 +236,7 @@ Still learning. Still solving. Still getting better.
 | [0062-unique-paths](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -268,6 +271,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
