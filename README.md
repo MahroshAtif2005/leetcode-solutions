@@ -307,6 +307,7 @@ Still learning. Still solving. Still getting better.
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +332,7 @@ Still learning. Still solving. Still getting better.
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,12 +419,14 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
