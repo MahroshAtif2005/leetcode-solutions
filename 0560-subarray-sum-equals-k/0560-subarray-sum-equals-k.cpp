@@ -1,19 +1,21 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-     //lets store the prefix sum of the arrays in a hashmap and count of how many times it appread
-     //will this work for negative numbers too?
+     //use a hashmap to store prefix sum
      unordered_map<int,int> freq;
+     int sum = 0;
      int count = 0;
-     int prefixSum = 0;
-     freq[0] = 1;
-     for (int i = 0; i<nums.size(); i++){
-       prefixSum += nums[i];
-       if(freq.count(prefixSum-k)){
-          count+= freq[prefixSum-k];
-       }
-        freq[prefixSum]++;
+     
+     freq[0]=1; //empty prefix sum occurs once
+
+     for (int num: nums){
+        sum  += num;
+        if(freq.count(sum-k)){
+            count += freq[sum-k];
+        }
+        freq[sum]++;
      }
-     return count;
+
+    return count;
        }
 };
