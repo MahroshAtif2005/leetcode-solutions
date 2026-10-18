@@ -5,16 +5,22 @@ public:
         int i = 0;
         char c = chars[0];
         int count = 0;
+        int write = 0;
       while(i<chars.size()){
             while(i < chars.size() && chars[i]==c){
               count++;
                i++;   
             }
             if(count == 1){
-                s+=c;
+                chars[write++]=c;
             }else{
-               s += c;
-               s += to_string(count);
+               chars[write] = c;
+               write++;
+               string num = to_string(count);
+
+               for(char digit : num){
+                  chars[write++] = digit;
+               }
             }
     
             if (i < chars.size()) {
@@ -25,9 +31,6 @@ public:
     
 
       //lets put the string in the chars vector now;
-      for(int i = 0; i<s.size(); i++){
-        chars[i]=s[i];
-      }
-      return s.size();
+      return write;
     }
 };
