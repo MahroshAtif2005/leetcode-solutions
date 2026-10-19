@@ -166,6 +166,7 @@ Still learning. Still solving. Still getting better.
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0518-coin-change-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
@@ -352,6 +353,7 @@ Still learning. Still solving. Still getting better.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0743-network-delay-time](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
@@ -439,6 +441,7 @@ Still learning. Still solving. Still getting better.
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
