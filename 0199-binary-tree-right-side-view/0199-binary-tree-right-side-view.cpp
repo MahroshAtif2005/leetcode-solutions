@@ -12,22 +12,21 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-         vector<int> answer;
-         traverse(root,0,answer); 
-         return answer;
+      vector<int> answer;
+      traverse(root,0,answer);
+      return answer;
+    }  
+    void traverse(TreeNode* node,int depth, vector<int>& answer){
+
+        if(node == nullptr){
+            return;
+        }
+
+        if(answer.size()==depth){
+            answer.push_back(node->val);
+        }
+
+        traverse(node->right,depth+1,answer);
+        traverse(node->left,depth+1,answer);
     }
-    void traverse(TreeNode* node,int depth,vector<int>& answer){
-     if(node==nullptr){
-        return;
-     }
-     // Only add if this is a NEW depth
-     if(depth == answer.size()){
-        answer.push_back(node->val);
-     }
-     //Right first
-     traverse(node->right,depth+1,answer);
-     //Left second
-     traverse(node->left,depth+1,answer);
-    }
-    
 };
