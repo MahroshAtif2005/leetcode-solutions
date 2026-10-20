@@ -1,22 +1,24 @@
 class Solution {
 public:
     bool checkSubarraySum(vector<int>& nums, int k) {
-        unordered_map<int,int> prefix; //remainder n index
-        prefix[0]=-1;
-        int sum = 0;
+     unordered_map<int,int> map;
 
-        for(int i = 0; i<nums.size(); i++){
-            sum += nums[i];
-            int rem = sum % k;
+     map[0]=-1;
 
-            if(prefix.count(rem)){
-                if(i-prefix[rem]>=2){
-                return true;
-            }
-            }else{
-                  prefix[rem]=i;
-             }
-        }
-        return false;
+     int prefixSum = 0;
+     int rem = 0;
+
+     for(int i = 0; i<nums.size(); i++){
+       prefixSum += nums[i];
+       rem = prefixSum % k;
+       if(map.count(rem)){
+        if(i-map[rem]>=2){
+            return true;
+         }
+       }else{
+        map[rem]=i;
+       }
+     }
+     return false;
     }
 };
