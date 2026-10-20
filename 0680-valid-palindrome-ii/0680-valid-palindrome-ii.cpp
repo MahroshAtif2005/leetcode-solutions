@@ -1,15 +1,18 @@
 class Solution {
 public:
-    bool check(string& s,int start, int end){
-     while (start < end){
-        if(s[start]!=s[end]){
-            return false;
+
+    bool check(string s, int start, int end){
+        
+        while(start<end){
+            if(s[start]!=s[end]){
+                return false;
+            }
+            start++;
+            end--;
         }
-        start++;
-        end--;
-     }
-     return true;
+        return true;
     }
+ 
     bool validPalindrome(string s) {
      int start = 0;
      int end = s.size()-1;
@@ -21,6 +24,6 @@ public:
         start++;
         end--;
      }
-     return true;
+      return true;
     }
 };
