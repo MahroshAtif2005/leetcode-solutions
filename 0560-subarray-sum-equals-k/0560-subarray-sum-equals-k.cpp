@@ -1,21 +1,18 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-     //use a hashmap to store prefix sum
-     unordered_map<int,int> freq;
-     int sum = 0;
-     int count = 0;
-     
-     freq[0]=1; //empty prefix sum occurs once
+      unordered_map<int,int> prefix;
+      prefix[0] = 1;
+      int sum = 0;
+      int count = 0;
 
-     for (int num: nums){
-        sum  += num;
-        if(freq.count(sum-k)){
-            count += freq[sum-k];
+      for(int num: nums){
+        sum += num;
+        if(prefix.count(sum-k)){
+            count += prefix[sum-k];
         }
-        freq[sum]++;
-     }
-
-    return count;
+            prefix[sum]++;
+      }
+      return count;
        }
 };
