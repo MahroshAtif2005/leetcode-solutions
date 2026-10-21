@@ -8,23 +8,23 @@ public:
 
      int i = m-1;
      int j = n-1;
-     int p = nums1.size() - 1;
+     int p = nums1.size()-1;
 
      while(i>=0 && j>=0){
-       if(nums2[j]>nums1[i]){
-        nums1[p] = nums2[j];
-        j--;
-       }
-       else {
-        nums1[p]=nums1[i];
-        i--;
-       }
-          p--;
+        if(nums2[j]>nums1[i]){
+            nums1[p]=nums2[j];
+            j--;
+        }else{
+            nums1[p]=nums1[i];
+            i--;
+        }
+        p--;
      }
+
      while(j>=0){
         nums1[p]=nums2[j];
-        p--;
         j--;
+        p--;
      }
     }
 };
