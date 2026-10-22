@@ -178,6 +178,7 @@ Still learning. Still solving. Still getting better.
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0722-remove-comments](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0722-remove-comments/) | Medium |
+| [0724-find-pivot-index](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -215,6 +216,7 @@ Still learning. Still solving. Still getting better.
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
