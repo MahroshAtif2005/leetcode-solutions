@@ -1,58 +1,51 @@
 class Solution {
 public:   
     vector<vector<char>> updateBoard(vector<vector<char>>& board, vector<int>& click) {
-        int r = click[0];
-        int c = click[1];
+       int r = click[0];
+       int c = click[1];
 
-        if(board[r][c]== 'M'){
-            board[r][c] ='X';
-            return board;
-        }
-
-        //otherwise call dfs here
-        dfs(board,r,c);
+       if(board[r][c]=='M'){
+        board[r][c]='X';
         return board;
+       }
+
+       dfs(board,r,c);
+       return board;
     }
+
     void dfs(vector<vector<char>>& board, int r, int c){
-
-       if(r<0 || c<0 || r>=board.size() || c>=board[0].size() || 
+        if(r<0 || c<0 ||r>=board.size() || c>=board[0].size() ||
           board[r][c]!='E'){
-        return;
-       }
+            return;
+          }
 
-       int count = 0;
+        int count = 0;
 
-
- //check athe the boxes around it and sees how many mines 
-       for(int i = r-1; i<=r+1; i++){
-        for(int j = c-1; j<=c+1; j++){
-           if(i>=0 && j>=0 &&
-              i<board.size() && j<board[0].size() &&
-              board[i][j]=='M'){
-                count++;
-              }
+        for (int i = r-1 ; i <= r+1 ; i++){
+            for(int j = c-1 ; j <= c+1 ; j++){
+                if(i>=0 && j>=0 && i<board.size() && j<board[0].size()&&
+                board[i][j]=='M'){
+                    count++;
+                }
+            }
         }
-       }
-       //checks for each one
-       //if mines are nearby reveal the number
-       if(count>0){
-        board[r][c] = '0' + count;
-        return;
-       }
 
-       //otherwise return 'B'
-       board[r][c] = 'B';
+        if(count>0){
+            board[r][c] = '0' + count;
+            return;
+        }
+        
+        board[r][c] = 'B';
+        
+        dfs(board,r+1,c);
+        dfs(board,r-1,c);
+        dfs(board,r,c-1);
+        dfs(board,r,c+1);
 
-       dfs(board,r-1,c);
-       dfs(board,r+1,c);
-       dfs(board,r,c-1);
-       dfs(board,r,c+1);
-
-       //dioganal
-       dfs(board,r-1,c-1);
-       dfs(board,r+1,c+1);
-       dfs(board,r-1,c+1);
-       dfs(board,r+1,c-1);
-
+        //diagonal dfs
+        dfs(board,r+1,c+1);
+        dfs(board,r-1,c-1);
+        dfs(board,r+1,c-1);
+        dfs(board,r-1,c+1);
     }
 };
