@@ -192,6 +192,7 @@ Still learning. Still solving. Still getting better.
 | [0746-min-cost-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0819-most-common-word](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
@@ -217,6 +218,7 @@ Still learning. Still solving. Still getting better.
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Prefix Sum
@@ -282,6 +284,7 @@ Still learning. Still solving. Still getting better.
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -325,6 +328,7 @@ Still learning. Still solving. Still getting better.
 | [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0443-string-compression](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
