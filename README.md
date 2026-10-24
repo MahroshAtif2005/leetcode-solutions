@@ -80,6 +80,7 @@ Still learning. Still solving. Still getting better.
 | [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0791-custom-sort-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0819-most-common-word](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -126,6 +127,7 @@ Still learning. Still solving. Still getting better.
 | [0680-valid-palindrome-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0722-remove-comments](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0722-remove-comments/) | Medium |
+| [0791-custom-sort-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0819-most-common-word](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
@@ -284,6 +286,7 @@ Still learning. Still solving. Still getting better.
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0791-custom-sort-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
