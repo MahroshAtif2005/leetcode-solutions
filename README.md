@@ -62,6 +62,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -99,6 +100,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
@@ -248,6 +250,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
