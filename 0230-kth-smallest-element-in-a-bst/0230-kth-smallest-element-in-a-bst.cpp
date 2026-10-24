@@ -12,18 +12,24 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-        //dfs->inorder->coz it gives sorted answer
-        vector<int> arr;
-        inorder(root,arr);
-        return arr[k-1];
-
+        int count = 0;
+        int answer;
+        inorder(root,count,answer,k);
+        return answer;
     }
-    void inorder(TreeNode* node,vector<int>& arr){
+    void inorder(TreeNode* node, int& count,int& answer, int k){
         if(node==nullptr){
             return;
         }
-        inorder(node->left,arr);
-        arr.push_back(node->val);
-        inorder(node->right,arr);
+
+        inorder(node->left, count,answer, k);
+
+        count++;
+        if(count == k){
+            answer = node->val;
+            return;
+        }
+
+        inorder(node->right, count,answer, k);
     }
 };
