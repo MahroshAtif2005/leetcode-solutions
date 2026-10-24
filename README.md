@@ -133,6 +133,7 @@ Still learning. Still solving. Still getting better.
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
 | [1487-making-file-names-unique](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1487-making-file-names-unique/) | Medium |
+| [1507-reformat-date](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1604-alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | Medium |
 | [2456-most-popular-video-creator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2456-most-popular-video-creator/) | Medium |
 | [2512-reward-top-k-students](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2512-reward-top-k-students/) | Medium |
