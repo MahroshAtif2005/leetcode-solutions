@@ -13,21 +13,20 @@ class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
       vector<int> answer;
-      traverse(root,0,answer);
+      traverse(root,0,answer); 
       return answer;
-    }  
+    }
 
-    void traverse(TreeNode* root, int depth, vector<int>& answer){
-        if(root == nullptr){
+    void traverse(TreeNode* node, int depth, vector<int>& answer){
+        if(node==nullptr){
             return;
         }
 
         if(answer.size()==depth){
-            answer.push_back(root->val);
+            answer.push_back(node->val);
         }
 
-        traverse(root->right,depth+1,answer);
-        traverse(root->left,depth+1,answer);
-  
+        traverse(node->right,depth+1,answer);
+        traverse(node->left,depth+1,answer);
     }
 };
