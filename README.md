@@ -222,6 +222,7 @@ Still learning. Still solving. Still getting better.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
@@ -614,4 +615,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
