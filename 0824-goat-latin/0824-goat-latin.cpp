@@ -12,20 +12,17 @@ public:
 
              while(ss>>word){
                 i++;
-                if(set.contains(tolower(word[0]))){
-                    for (int j = 0 ; j<i; j++){
-                         add += "a";
-                    }
+                add +='a';
+                       
+                if(set.contains(tolower(word[0]))){       
                     result += word + "ma" + add + ' ';
-                    add = "";
+               
                 }else{
-                    for (int j = 0 ; j<i; j++){
-                         add += "a";
-                    }
+                    
                     char temp = word[0];
                     word = word.substr(1);
                     result += word + temp + "ma" + add + ' ';
-                    add = "";
+               
                 }
             }
 
