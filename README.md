@@ -107,6 +107,7 @@ Still learning. Still solving. Still getting better.
 | [0049-group-anagrams](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -160,6 +161,7 @@ Still learning. Still solving. Still getting better.
 | [0049-group-anagrams](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
@@ -379,6 +381,7 @@ Still learning. Still solving. Still getting better.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
@@ -418,6 +421,7 @@ Still learning. Still solving. Still getting better.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Divide and Conquer
@@ -479,6 +483,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
