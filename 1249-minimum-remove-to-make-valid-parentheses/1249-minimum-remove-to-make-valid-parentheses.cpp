@@ -8,8 +8,8 @@ public:
        for(int i =0 ; i<s.size(); i++){
         if(s[i]=='('){
             st.push(i);
-        }else if(s[i]==')'){
-            if(!st.empty()){
+        }else if(s[i]==')'){ 
+            if(!st.empty()){ //we have to use this condition in case the first bracket we incounter is a closing bracket, if it is directly add it to the invalid bracket set
             st.pop();
             }else{
                 set.insert(i);
