@@ -131,6 +131,7 @@ Still learning. Still solving. Still getting better.
 | [0791-custom-sort-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0819-most-common-word](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0824-goat-latin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0824-goat-latin/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
