@@ -12,30 +12,32 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-    //bfs tree -> use queue
-    vector<vector<int>> result;
-    if(root==nullptr){
-        return result;
-    }
-    queue<TreeNode*> q;
-    q.push(root);
-    while(!q.empty()){
-     vector<int> level;
-     int levelSize = q.size();
-     for (int i = 0; i<levelSize;i++){
-        TreeNode* node = q.front();
-        q.pop();
-        level.push_back(node->val);
-        if(node->left!=nullptr){
-            q.push(node->left);
-        }
-        if(node->right!=nullptr){
-            q.push(node->right);
-        }
+      vector<vector<int>> answer;
 
-     }
-                result.push_back(level);
-     }
-     return result;
+      if(root == nullptr){
+        return answer;
+      }
+
+      queue<TreeNode*> q;
+
+      q.push(root);
+
+      while(!q.empty()){
+        int levelSize = q.size();
+        vector<int> levels;
+        for(int i = 0; i<levelSize; i++){
+            TreeNode* node = q.front();
+            q.pop();
+            levels.push_back(node->val);
+            if(node->left != nullptr){
+            q.push(node->left);
+            }
+            if(node->right != nullptr){
+                q.push(node->right);
+            }
+        }
+        answer.push_back(levels);
+      }
+      return answer;
     }
 };
