@@ -70,6 +70,7 @@ Still learning. Still solving. Still getting better.
 | [0138-copy-list-with-random-pointer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [0290-word-pattern](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -115,6 +116,7 @@ Still learning. Still solving. Still getting better.
 | [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0290-word-pattern](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0415-add-strings](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
