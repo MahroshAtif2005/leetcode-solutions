@@ -1,40 +1,31 @@
 class Solution {
 public:
     vector<string> reorderLogFiles(vector<string>& logs) {
-     //lets first identify if a log is a letetr log or a digit log
-     //if its a letter log, put it in the letter array
-     //ignore the identifier and sort the letter array, if same content then sort by identifier
-     // if its a digit log add it in the digit array
-     vector<pair<string,string>> letters;
-     vector<string> digits;
+     stable_sort(logs.begin(),logs.end(), [](const string& a, const string& b){
 
-     for (int i = 0; i<logs.size(); i++){
-        int pos = logs[i].find(' ');
-        if(isdigit(logs[i][pos+1])){
-            digits.push_back(logs[i]);
-        }else{
-            string content = logs[i].substr(pos+1);
-            string identifier = logs[i].substr(0,pos);
-            letters.push_back({identifier,content});
+        int posA = a.find(' ');
+        int posB = b.find(' ');
+
+        bool digitA = isdigit(a[posA+1]);
+        bool digitB = isdigit(b[posB+1]);
+
+        if(digitA && digitB){ ///both are digit logs, stable sort will do its job
+          return false; //short be after alpha logs
         }
-     }
 
-     sort(letters.begin(),letters.end(),[](auto& a,auto& b){
-       if (a.second==b.second){
-         return a.first<b.first;
-       }
-       return a.second<b.second;
+        if(digitA) return false;
+        if(digitB) return true;
+
+        string contentA = a.substr(posA+1);
+        string contentB = b.substr(posB+1);
+
+        if(contentA!=contentB){
+            return contentA<contentB;
+        }else{
+            return a.substr(0,posA)<b.substr(0,posB);
+        }
+
      });
-
-     //merging both arrays now
-    vector<string> answer;
-    for(auto& pair: letters){
-        answer.push_back(pair.first + " " + pair.second);
-    }
-     for(string digit : digits){
-        answer.push_back(digit);
-    }
-    
-    return answer;
+     return logs;
     }
 };
