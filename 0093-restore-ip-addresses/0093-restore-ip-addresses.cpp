@@ -1,50 +1,46 @@
 class Solution {
 public:
 
-    void backtrack(const string& s, int start, vector<string>& path, vector<string>& answer){
-      //base case
-      if(path.size()==4){
-        if(start==s.size()){
-            string Ip = path[0] + "." + path[1] + "." + path[2] + "." + path[3];
-            answer.push_back(Ip);
+    void backtrack(string s,int start,vector<string>& answer, vector<string>& paths){
+        //base case
+        if(paths.size()==4){
+            if(start==s.size()){
+                answer.push_back(paths[0] + '.' + paths[1] + '.' + paths[2]+ '.'+ paths[3]);
+            }
             return;
         }
-      }
 
-      for (int len = 1; len<=3; len++){
-
-        if(start+len>s.size()){
+        //try segments of line 1 - 3
+        for(int len = 1; len<=3; len++){
+          if(start+len>s.size()){
+            break;
+          }
+          
+          string address = s.substr(start,len);
+          if(address.size()>1 && address[0]=='0'){
             continue;
-        }
+          }
 
-        string address = s.substr(start,len);
-        if(address.size()>1 && address[0]=='0'){
+          int num = stoi(address);
+          if(num>255){
             continue;
-        }
+          }
+          //choose
+          paths.push_back(address);
+          //explore
+          backtrack(s,start+len,answer,paths);
+          //undo
+          paths.pop_back();
 
-        int num = stoi(address);
-        if(num>255){
-            continue;
         }
-      
-      //choose
-      path.push_back(address);
-      //explore
-      backtrack(s,start+len,path,answer);
-      //undo
-      path.pop_back();   
-      }
     }
 
     vector<string> restoreIpAddresses(string s) {
-      vector<string> path;
-      vector<string> answer;
+     vector<string> answer;
+     vector<string> paths;
 
-      if(s.size()<4 || s.size()>12){
-        return answer;
-      }
+     backtrack(s,0,answer,paths);
 
-      backtrack(s,0,path,answer);
-      return answer;
+     return answer;
     }
 };
