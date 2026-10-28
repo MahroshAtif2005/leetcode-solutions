@@ -204,6 +204,7 @@ Still learning. Still solving. Still getting better.
 | [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0853-car-fleet](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0896-monotonic-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
@@ -276,6 +277,7 @@ Still learning. Still solving. Still getting better.
 | [0415-add-strings](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Monotonic Stack
@@ -460,6 +462,7 @@ Still learning. Still solving. Still getting better.
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
 | Problem Name | Difficulty |
@@ -498,6 +501,7 @@ Still learning. Still solving. Still getting better.
 | [0419-battleships-in-a-board](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0529-minesweeper](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0529-minesweeper/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0892-surface-area-of-3d-shapes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
