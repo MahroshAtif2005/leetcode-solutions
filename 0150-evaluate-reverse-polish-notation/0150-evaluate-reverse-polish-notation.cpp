@@ -1,42 +1,35 @@
 class Solution {
 public:
     int evalRPN(vector<string>& tokens) {
-        vector<int> stack;
-        //Second, pop_back() does not return the value. You need to first get the last element with back(), then remove it with pop_back():
-        for(string token : tokens){
-            if(token == "+"){
-               int num1 = stack.back();
-               stack.pop_back();
-               int num2 = stack.back();
-               stack.pop_back();
-               int ans = num1 + num2;
-                  stack.push_back(ans);
-            }else if(token=="-"){
-               int num1 = stack.back();
-               stack.pop_back();
-               int num2 = stack.back();
-               stack.pop_back();
-               int ans = num2 - num1;
-                  stack.push_back(ans);
-            }else if(token=="*"){
-               int num1 = stack.back();
-               stack.pop_back();
-               int num2 = stack.back();
-               stack.pop_back();
-               int ans = num1 * num2;
-                   stack.push_back(ans);
-            }else if(token=="/"){
-                int num1 = stack.back();
-                stack.pop_back();
-                int num2 = stack.back();
-                stack.pop_back();
-                int ans = num2 / num1;
-                   stack.push_back(ans);
-            }else{
-           int num = stoi(token);//converts string to a integer
-           stack.push_back(num);
-            }
+     stack<int> st;
+
+     for(string token : tokens){
+        if(token=="+" || token =="-" || token == "*" || token =="/"){
+          
+                int num1 = st.top();
+                st.pop();
+                int num2 = st.top();
+                st.pop();
+
+                int ans; 
+
+                if(token=="+"){
+                    ans = num2+num1;
+                }else if(token =="-"){
+                    ans = num2-num1;
+                }else if(token=="*"){
+                    ans = num2*num1;
+                }else{
+                    ans = num2/num1;
+                }
+
+                st.push(ans);
+     
+        }else{
+            st.push(stoi(token));
         }
-        return stack.back();
+     }
+
+     return st.top();
     }
 };
