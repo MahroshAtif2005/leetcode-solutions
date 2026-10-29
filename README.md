@@ -172,6 +172,7 @@ Still learning. Still solving. Still getting better.
 | [0064-minimum-path-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -541,6 +542,7 @@ Still learning. Still solving. Still getting better.
 | [0070-climbing-stairs](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
