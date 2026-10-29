@@ -1,12 +1,10 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        //select the cheapest day to buy
-        //and select the highest one after buying to sell
         int minPrice = prices[0];
         int maxProfit = 0;
 
-        for(int i = 1; i<prices.size(); i++){
+        for(int i = 0; i<prices.size(); i++){
             int profitToday = prices[i]-minPrice;
             if(profitToday>maxProfit){
                 maxProfit = profitToday;
@@ -14,7 +12,7 @@ public:
             if(prices[i]<minPrice){
                 minPrice = prices[i];
             }
-         }
-    return maxProfit;
+        }
+        return maxProfit;
     }
 };
