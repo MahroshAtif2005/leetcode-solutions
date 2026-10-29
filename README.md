@@ -106,6 +106,7 @@ Still learning. Still solving. Still getting better.
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
@@ -165,6 +166,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -479,6 +481,7 @@ Still learning. Still solving. Still getting better.
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
