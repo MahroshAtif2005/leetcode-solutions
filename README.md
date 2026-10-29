@@ -184,6 +184,7 @@ Still learning. Still solving. Still getting better.
 | [0213-house-robber-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
+| [0283-move-zeroes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -346,6 +347,7 @@ Still learning. Still solving. Still getting better.
 | [0125-valid-palindrome](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0283-move-zeroes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
