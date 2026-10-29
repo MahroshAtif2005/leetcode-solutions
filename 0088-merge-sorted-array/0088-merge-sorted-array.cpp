@@ -12,7 +12,7 @@ public:
 
      while(i>=0 && j>=0){
         if(nums2[j]>nums1[i]){
-            nums1[p]=nums2[j];
+            nums1[p] = nums2[j];
             j--;
         }else{
             nums1[p]=nums1[i];
