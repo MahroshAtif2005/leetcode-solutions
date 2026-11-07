@@ -1,34 +1,33 @@
 class LRUCache {
 public:
-int maxCapacity;
-list<pair<int,int>> dll; //doubly linked list
-unordered_map<int, list<pair<int,int>>::iterator> map;
+    int maxCapacity;
+    list<pair<int,int>> dll; //doubly linked list
+    unordered_map<int,list<pair<int,int>>::iterator> map;
     LRUCache(int capacity) {
         maxCapacity = capacity;
     }
     
     int get(int key) {
-        if(!map.count(key)){
+        if(map.count(key)){        
+           dll.splice(dll.begin(),dll,map[key]);
+            return map[key]->second;
+        }else{
             return -1;
         }
-
-        dll.splice(dll.begin(),dll,map[key]);
-
-        return map[key]->second;
     }
     
     void put(int key, int value) {
         if(map.count(key)){
-            map[key]->second = value;
+            map[key]->second=value;
             dll.splice(dll.begin(),dll,map[key]);
             return;
         }
-        if(int(dll.size())==maxCapacity){
+        if(dll.size()==maxCapacity){
             map.erase(dll.back().first);
             dll.pop_back();
         }
         dll.push_front({key,value});
-        map[key]=dll.begin();
+        map[key] = dll.begin();
     }
 };
 
