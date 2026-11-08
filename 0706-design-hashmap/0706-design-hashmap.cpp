@@ -6,6 +6,7 @@ public:
   //In a real implementation I’d track the load factor (items ÷ buckets) and resize and rehash into double the buckets when it passes about 0.75, which keeps operations O(1) on average
 
   //Negative keys. In C++, -7 % 10 is -7, which would give an invalid index. LeetCode 706 only uses non-negative keys, but in an interview, mention it and handle it: ((key % size) + size) % size.
+  
     MyHashMap() {
         size = 10;
         count = 0;
@@ -15,6 +16,7 @@ public:
     void rehash(){
         int newSize = size*2;
         vector<vector<pair<int,int>>> newBuckets(newSize);
+        //when the number of buckets changes, the bucket index might change too
         for(auto& bucket: buckets){
             for(auto& p: bucket){
                 int newIndex = p.first % newSize;
