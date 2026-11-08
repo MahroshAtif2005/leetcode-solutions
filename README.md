@@ -82,6 +82,7 @@ Still learning. Still solving. Still getting better.
 | [0560-subarray-sum-equals-k](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0740-delete-and-earn](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0791-custom-sort-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0791-custom-sort-string/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -202,6 +203,7 @@ Still learning. Still solving. Still getting better.
 | [0636-exclusive-time-of-functions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
+| [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0722-remove-comments](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0722-remove-comments/) | Medium |
 | [0724-find-pivot-index](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -268,6 +270,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
@@ -338,6 +341,7 @@ Still learning. Still solving. Still getting better.
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -644,4 +648,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
