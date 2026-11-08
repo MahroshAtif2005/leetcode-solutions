@@ -1,35 +1,41 @@
 class MyHashMap {
 public:
-  vector<pair<int,int>> map;
+  int size;
+  vector<vector<pair<int,int>>> buckets;
     MyHashMap() {
+        size = 10;
+        buckets.resize(size);
     }
-    //i could have used binary search also no, it can use o log n time instead to search
+    
     void put(int key, int value) {
-        for(int i = 0; i<map.size(); i++){
-            if(map[i].first==key){
-                map[i].second = value;
-                return;
-            }
-        }
-        map.push_back({key,value});
+       int index = key % size;
+       for(auto& p : buckets[index]){
+         if(p.first==key){
+            p.second = value;
+            return;
+         }
+       }
+       buckets[index].push_back({key,value});
     }
     
     int get(int key) {
-        for(int i = 0; i<map.size(); i++){
-             if(map[i].first==key){
-                return map[i].second;
-            }
+       int index = key % size;
+       for(auto& p : buckets[index]){
+        if(p.first==key){
+            return p.second;
         }
-        return -1;
+       }
+       return -1;
     }
     
     void remove(int key) {
-        for(int i = 0; i<map.size(); i++){
-             if(map[i].first==key){
-                map.erase(map.begin()+i);
-                return;
-            }
+       int index = key % size;
+       for(int i = 0; i<buckets[index].size(); i++){
+        if(buckets[index][i].first==key){
+            buckets[index].erase(buckets[index].begin()+i);
+            return;
         }
+       }
     }
 };
 
