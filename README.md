@@ -73,6 +73,7 @@ Still learning. Still solving. Still getting better.
 | [0242-valid-anagram](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -192,6 +193,7 @@ Still learning. Still solving. Still getting better.
 | [0322-coin-change](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0518-coin-change-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
@@ -270,6 +272,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
@@ -285,6 +288,7 @@ Still learning. Still solving. Still getting better.
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0415-add-strings](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0415-add-strings/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0539-minimum-time-difference](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0539-minimum-time-difference/) | Medium |
@@ -652,4 +656,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
