@@ -1,19 +1,17 @@
 class RandomizedSet {
 public:
- vector<int> nums;
+ vector<int> random;
  unordered_map<int,int> map;
-
-    RandomizedSet() {
-        
+    RandomizedSet() {   
     }
     
     bool insert(int val) {
-        if(map.count(val)){
-          return false;
+        if(!map.count(val)){
+            random.push_back(val);
+            map[val] = random.size()-1;
+            return true;
         }
-        nums.push_back(val);
-        map[val] = nums.size()-1;
-        return true;
+        return false;
     }
     
     bool remove(int val) {
@@ -21,21 +19,19 @@ public:
             return false;
         }
         int index = map[val];
-        int lastVal = nums.back();
-
-        nums[index] = lastVal;
+        int lastVal = random.back();
+        
+        random[index]=lastVal;
         map[lastVal] = index;
 
-        nums.pop_back();
+        random.pop_back(); 
         map.erase(val);
-
-        return true; 
+        return true;
     }
     
     int getRandom() {
-        //int index = rand() % nums.size(); generates a random valid index for the vector. rand() generates a random integer, while % nums.size() takes the remainder when dividing that integer by the vector's size. This ensures the index is between 0 and nums.size() - 1
-       int index = rand() % nums.size();
-       return nums[index];
+        int num = rand() % random.size();//we get the randome index not actual value
+        return random[num];
     }
 };
 
