@@ -3,33 +3,26 @@ public:
     Foo() {
         
     }
-    int step = 0;
-    mutex mtx;
-    condition_variable cv;
+
+    binary_semaphore sem1{0}; //initialise counter to 0
+    binary_semaphore sem2{0};
+
     void first(function<void()> printFirst) {
-        unique_lock<mutex> lock(mtx);
+        
         // printFirst() outputs "first". Do not change or remove this line.
         printFirst();
-        cv.notify_all();
-        step++;
+        sem1.release();
     }
 
     void second(function<void()> printSecond) {
-        unique_lock<mutex> lock(mtx);
-        while(step!=1){
-            cv.wait(lock);
-        }
+        sem1.acquire();
         // printSecond() outputs "second". Do not change or remove this line.
         printSecond();
-        step++;
-        cv.notify_all();
+        sem2.release();
     }
 
     void third(function<void()> printThird) {
-        unique_lock<mutex> lock(mtx);
-        while(step!=2){
-            cv.wait(lock);
-        }
+        sem2.acquire();
         // printThird() outputs "third". Do not change or remove this line.
         printThird();
     }
