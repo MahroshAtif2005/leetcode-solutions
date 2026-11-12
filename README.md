@@ -660,4 +660,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
