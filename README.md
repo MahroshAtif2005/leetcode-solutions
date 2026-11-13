@@ -667,4 +667,5 @@ Still learning. Still solving. Still getting better.
 | [1116-print-zero-even-odd](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1117-building-h2o](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1117-building-h2o/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
+| [1226-the-dining-philosophers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1226-the-dining-philosophers/) | Medium |
 <!---LeetCode Topics End-->
