@@ -69,6 +69,7 @@ Still learning. Still solving. Still getting better.
 | [0133-clone-graph](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0290-word-pattern/) | Easy |
@@ -346,6 +347,7 @@ Still learning. Still solving. Still getting better.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
@@ -359,6 +361,7 @@ Still learning. Still solving. Still getting better.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0165-compare-version-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0283-move-zeroes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -673,4 +676,8 @@ Still learning. Still solving. Still getting better.
 | [1117-building-h2o](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1117-building-h2o/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
 | [1226-the-dining-philosophers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1226-the-dining-philosophers/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
