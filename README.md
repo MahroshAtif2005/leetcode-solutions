@@ -264,6 +264,7 @@ Still learning. Still solving. Still getting better.
 | [0143-reorder-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0394-decode-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0394-decode-string/) | Medium |
@@ -277,6 +278,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
@@ -379,6 +381,7 @@ Still learning. Still solving. Still getting better.
 | [0102-binary-tree-level-order-traversal](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -410,6 +413,7 @@ Still learning. Still solving. Still getting better.
 | [0102-binary-tree-level-order-traversal](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -444,6 +448,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Binary Lifting
@@ -685,5 +690,6 @@ Still learning. Still solving. Still getting better.
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
 <!---LeetCode Topics End-->
