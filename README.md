@@ -191,6 +191,7 @@ Still learning. Still solving. Still getting better.
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0228-summary-ranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -276,6 +277,7 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
+| [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -680,4 +682,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
 <!---LeetCode Topics End-->
