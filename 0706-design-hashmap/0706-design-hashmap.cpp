@@ -36,6 +36,10 @@ public:
          }
        }
        buckets[index].push_back({key,value});
+       count++;
+       if ((double)count / size > 0.75) {
+            rehash();
+        }
     }
     
     int get(int key) {
@@ -53,6 +57,7 @@ public:
        for(int i = 0; i<buckets[index].size(); i++){
         if(buckets[index][i].first==key){
             buckets[index].erase(buckets[index].begin()+i);
+            count++;
             return;
         }
        }
