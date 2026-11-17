@@ -9,22 +9,28 @@ public:
         map[key].push_back({value,timestamp});
     }
     
+
     string get(string key, int timestamp) {
-        int left = 0;
-        int right = map[key].size()-1;
-        string ans = "";
-        int prevTimestamp = 0;
-        string value = "";
-        while(left<=right){
-          int mid = left+(right-left)/2;
-         if (map[key][mid].second <= timestamp) {
-              value = map[key][mid].first;
-              left = mid + 1;
-          }else{
-             right = mid - 1; 
-          }
+        auto it = map.find(key);
+
+        if(it==map.end()){
+            return "";
         }
-        return value;
+
+        int left = 0;
+        int right = it->second.size()-1;
+        string result = "";
+
+        while(left<=right){
+           int mid = left + (right-left) / 2;
+           if(it->second[mid].second<=timestamp){
+            result = it->second[mid].first;
+            left = mid + 1;
+           }else{
+            right = mid - 1;
+           }
+        }
+        return result;
     }
 };
 
