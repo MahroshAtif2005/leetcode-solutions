@@ -3,8 +3,8 @@ public:
     Foo() {
         
     }
-
-    binary_semaphore sem1{0}; //initialise counter to 0
+    
+    binary_semaphore sem1{0};
     binary_semaphore sem2{0};
 
     void first(function<void()> printFirst) {
