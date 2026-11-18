@@ -287,6 +287,7 @@ Still learning. Still solving. Still getting better.
 | [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1146-snapshot-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
@@ -661,6 +662,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -683,6 +685,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
