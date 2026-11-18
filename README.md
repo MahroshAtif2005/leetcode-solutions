@@ -282,6 +282,7 @@ Still learning. Still solving. Still getting better.
 | [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
@@ -388,6 +389,7 @@ Still learning. Still solving. Still getting better.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -420,6 +422,7 @@ Still learning. Still solving. Still getting better.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Depth-First Search
@@ -453,6 +456,7 @@ Still learning. Still solving. Still getting better.
 | [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,6 +490,7 @@ Still learning. Still solving. Still getting better.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -651,6 +656,7 @@ Still learning. Still solving. Still getting better.
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
