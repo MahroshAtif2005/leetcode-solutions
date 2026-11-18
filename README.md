@@ -682,6 +682,7 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1114-print-in-order/) | Easy |
+| [1115-print-foobar-alternately](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1115-print-foobar-alternately/) | Medium |
 | [1116-print-zero-even-odd](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1116-print-zero-even-odd/) | Medium |
 | [1117-building-h2o](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1117-building-h2o/) | Medium |
 | [1195-fizz-buzz-multithreaded](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1195-fizz-buzz-multithreaded/) | Medium |
