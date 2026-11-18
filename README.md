@@ -348,6 +348,7 @@ Still learning. Still solving. Still getting better.
 | [0002-add-two-numbers](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
@@ -471,6 +472,7 @@ Still learning. Still solving. Still getting better.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -478,6 +480,7 @@ Still learning. Still solving. Still getting better.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -696,4 +699,12 @@ Still learning. Still solving. Still getting better.
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0284-peeking-iterator](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0284-peeking-iterator/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
