@@ -12,25 +12,25 @@
 class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
-       //binary search tree -> so do inorder traversal
-       int answer;
-       int count = 0;
-       inorder(root,k,answer,count);
-       return answer;
+        int count = 0;
+        int answer;
+        inorder(root,answer,count,k);
+        return answer;
     }
-    void inorder(TreeNode* node, int k, int& answer,int& count){
-       if(node == nullptr){
-        return;
-       }
 
-       inorder(node->left,k,answer,count);
-       
-       count++;
-       if(count == k){
-        answer = node->val;
-        return;
-       }
+    void inorder(TreeNode* node,int& answer,int& count,int k){
+        
+        if (node==nullptr){
+            return;
+        }
 
-       inorder(node->right,k,answer,count);
+        inorder(node->left,answer,count,k);
+        
+        count++;
+        if(count==k){
+            answer = node->val;
+        }
+
+        inorder(node->right,answer,count,k);
     }
 };
