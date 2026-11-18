@@ -93,6 +93,7 @@ Still learning. Still solving. Still getting better.
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1146-snapshot-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
@@ -227,6 +228,7 @@ Still learning. Still solving. Still getting better.
 | [0937-reorder-data-in-log-files](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
+| [1146-snapshot-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1169-invalid-transactions](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1169-invalid-transactions/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1418-display-table-of-food-orders-in-a-restaurant/) | Medium |
@@ -250,6 +252,7 @@ Still learning. Still solving. Still getting better.
 | [0825-friends-of-appropriate-ages](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1146-snapshot-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1146-snapshot-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +288,7 @@ Still learning. Still solving. Still getting better.
 | [0703-kth-largest-element-in-a-stream](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0706-design-hashmap](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1146-snapshot-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1146-snapshot-array/) | Medium |
 | [1396-design-underground-system](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1396-design-underground-system/) | Medium |
 | [1797-design-authentication-manager](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1797-design-authentication-manager/) | Medium |
 | [2034-stock-price-fluctuation](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/2034-stock-price-fluctuation/) | Medium |
@@ -713,4 +717,8 @@ Still learning. Still solving. Still getting better.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Persistent Data Structure
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1146-snapshot-array](https://github.com/MahroshAtif2005/leetcode-solutions/tree/main/1146-snapshot-array/) | Medium |
 <!---LeetCode Topics End-->
