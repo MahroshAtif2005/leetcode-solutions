@@ -3,11 +3,14 @@ public:
     int maxCapacity;
     list<pair<int,int>> dll; //doubly linked list
     unordered_map<int,list<pair<int,int>>::iterator> map;
+
+    mutex mtx;
     LRUCache(int capacity) {
         maxCapacity = capacity;
     }
     
     int get(int key) {
+        lock_guard<mutex> lock(mtx);
         if(map.count(key)){        
            dll.splice(dll.begin(),dll,map[key]);
             return map[key]->second;
@@ -17,6 +20,7 @@ public:
     }
     
     void put(int key, int value) {
+        lock_guard<mutex> lock(mtx);
         if(map.count(key)){
             map[key]->second=value;
             dll.splice(dll.begin(),dll,map[key]);
